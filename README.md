@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>
 </p>
 
+<h3 align="center">💻 Studying.. 💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+</p>
+
+
 <br />
 <br />
 
